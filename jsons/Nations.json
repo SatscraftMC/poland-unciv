@@ -29,8 +29,8 @@
 		"denounced": "Yes we are evil!",
 		"declaringfriendship": "Come on bratku, Let's be freinds",
 
-		"outerColor": [255,255,255],
-		"innerColor": [220,20,60],
+		"outerColor": [220,20,60],
+		"innerColor": [255,255,255],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["Warszawa","Kraków","Łódź","Katowice","Wrocław","Poznań","Gdańsk","Szczecin","Bydgoszcz",
 			"Lublin","Białystok","Gdynia","Częstochowa","Radom","Toruń","Rzeszów","Kielce","Gliwice","Olsztyn",
