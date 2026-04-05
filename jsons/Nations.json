@@ -3,7 +3,7 @@
 		"name": "Poland",
 		"leaderName": "Józef Piłsudski",
 		"adjective": ["Polish"],
-		"startBias": ["Snow"],
+		"startBias": ["Forest"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "Halo my friends, We come in peace!",
@@ -15,19 +15,19 @@
 		"introduction": "As superior entities, you are not worthy of our attention.",
 		
 		"neutralHello": "Witamy, How are you doing?",
-		//"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		//"neutralNo": ["We refuse.","Nie!","I said no."],
-		//"neutralYes": ["Very gud.","Of course, Tak.","That is good."],
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We refuse.","Nie!","I said no."],
+		"neutralYes": ["Very gud.","Of course, Tak.","That is good."],
 
 		"hateHello": "What do you want now pacanie?",
-		//"hateLetsHearIt": ["Say!","What you say?","Come on."],
-		//"hateNo": ["That is not possible!","We are not agreeing to that!","No! Nie!"],
-		//"hateYes": ["Thats fine.","That is gud enough.","Very well..."],
+		"hateLetsHearIt": ["Say!","What you say?","Come on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","No! Nie!"],
+		"hateYes": ["Thats fine.","That is gud enough.","Very well..."],
 		
-		//"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We give you this trade offer.",
 		"denounced": "Yes we are evil!",
-		"declaringfriendship": "Come on bratku, Let's be freinds",
+		"declaringfriendship": "Come on bratku, Let's be freinds.",
 
 		"outerColor": [220,20,60],
 		"innerColor": [255,255,255],
